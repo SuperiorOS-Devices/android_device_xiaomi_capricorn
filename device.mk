@@ -34,6 +34,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     Snap
 
+# Camera app
+PRODUCT_PACKAGES += \
+    MGC
+
 # ConfigPanel
 PRODUCT_PACKAGES += \
     ConfigPanel
