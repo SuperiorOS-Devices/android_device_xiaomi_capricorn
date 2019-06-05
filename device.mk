@@ -50,9 +50,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.1-service
 
-# FlipFlap
+# Pocket Mode
 PRODUCT_PACKAGES += \
-    FlipFlap
+    XiaomiPocketMode
 
 # Input
 PRODUCT_COPY_FILES += \
